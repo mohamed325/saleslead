@@ -25,7 +25,7 @@ RUN MySQL and Apache
 ```
 ## Deploy
 
-I deployed the backend on heroku if you want to have quickly fetch and json data. you can access server endpoints at 
+I deployed the backend on heroku if you want to quickly fetch and add json data. you can access the server exposed endpoints at 
 forexample : https://myphpserver.herokuapp.com/api/get_leads.php  or https://myphpserver.herokuapp.com/api/add_lead.php
 
 ## Author
