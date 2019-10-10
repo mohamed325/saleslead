@@ -23,6 +23,10 @@ Import the saleslead.sql file, change the username and password in the config/Da
 place the saleslead folder under htdocs in XAMPP
 RUN MySQL and Apache
 ```
+## Deploy
+
+I deployed the backend on heroku if you want to have quickly fetch and json data. you can access server endpoints at 
+forexample : https://myphpserver.herokuapp.com/api/get_leads.php  or https://myphpserver.herokuapp.com/api/add_lead.php
 
 ## Author
 
